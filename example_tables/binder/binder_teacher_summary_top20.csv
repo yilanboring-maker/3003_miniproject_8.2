@@ -1,0 +1,21 @@
+rank,design_id,prodigy_delta_g_kcal_mol,predicted_kd_m,predicted_kd_label,hotspot_coverage_6a,hotspot_contacted_6a,hotspot_total,coverage_hotspot_list_6a,clash_status,min_interchain_distance,binder_length,pdb_path
+1,binder_b001_18,-7.183,5.430303e-06,5.43 uM,0.889,8,9,"A87,A88,A89,A90,A114,A115,A116,A117",clash,1.869,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_001/binder_b001_18.pdb
+2,binder_b004_7,-6.864,9.303635e-06,9.30 uM,0.889,8,9,"A87,A88,A89,A90,A91,A114,A115,A116",no_clash,2.212,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_004/binder_b004_7.pdb
+3,binder_b001_26,-6.784,1.064861e-05,10.65 uM,0.778,7,9,"A87,A88,A89,A90,A114,A115,A116",clash,1.471,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_001/binder_b001_26.pdb
+4,binder_b006_14,-6.616,1.413963e-05,14.14 uM,0.778,7,9,"A87,A88,A89,A90,A114,A115,A116",no_clash,2.549,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_006/binder_b006_14.pdb
+5,binder_b001_13,-6.536,1.618372e-05,16.18 uM,0.222,2,9,"A88,A114",no_clash,2.563,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_001/binder_b001_13.pdb
+6,binder_b004_26,-6.290,2.451307e-05,24.51 uM,0.222,2,9,"A87,A88",no_clash,2.679,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_004/binder_b004_26.pdb
+7,binder_b007_18,-6.285,2.472081e-05,24.72 uM,0.778,7,9,"A87,A88,A89,A90,A114,A115,A116",no_clash,2.084,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_007/binder_b007_18.pdb
+8,binder_b004_25,-6.125,3.238497e-05,32.38 uM,0.778,7,9,"A87,A88,A89,A90,A114,A115,A116",clash,1.278,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_004/binder_b004_25.pdb
+9,binder_b009_29,-6.053,3.656957e-05,36.57 uM,0.000,0,9,,clash,1.976,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_009/binder_b009_29.pdb
+10,binder_b005_1,-5.971,4.199777e-05,42.00 uM,0.333,3,9,"A87,A88,A114",no_clash,2.157,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_005/binder_b005_1.pdb
+11,binder_b004_14,-5.923,4.554183e-05,45.54 uM,0.333,3,9,"A87,A88,A114",clash,1.335,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_004/binder_b004_14.pdb
+12,binder_b002_23,-5.852,5.133977e-05,51.34 uM,1.000,9,9,"A87,A88,A89,A90,A91,A114,A115,A116,A117",clash,1.622,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_002/binder_b002_23.pdb
+13,binder_b005_7,-5.850,5.151336e-05,51.51 uM,0.889,8,9,"A87,A88,A89,A90,A114,A115,A116,A117",clash,1.697,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_005/binder_b005_7.pdb
+14,binder_b010_27,-5.823,5.391518e-05,53.92 uM,0.667,6,9,"A88,A89,A90,A114,A115,A116",clash,1.534,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_010/binder_b010_27.pdb
+15,binder_b001_23,-5.809,5.520433e-05,55.20 uM,0.333,3,9,"A87,A88,A114",no_clash,2.645,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_001/binder_b001_23.pdb
+16,binder_b006_1,-5.754,6.057430e-05,60.57 uM,0.333,3,9,"A88,A114,A115",no_clash,2.537,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_006/binder_b006_1.pdb
+17,binder_b005_14,-5.716,6.458662e-05,64.59 uM,0.556,5,9,"A87,A88,A89,A114,A115",no_clash,2.605,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_005/binder_b005_14.pdb
+18,binder_b003_25,-5.709,6.535422e-05,65.35 uM,0.333,3,9,"A88,A114,A115",no_clash,2.431,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_003/binder_b003_25.pdb
+19,binder_b010_4,-5.683,6.828601e-05,68.29 uM,0.444,4,9,"A87,A88,A114,A115",no_clash,2.210,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_010/binder_b010_4.pdb
+20,binder_b009_13,-5.586,8.043281e-05,80.43 uM,0.333,3,9,"A88,A114,A115",no_clash,2.735,75,/mnt/PPIFlow/ica2_runs/output/binder_generation_20260514_132056/binder/batch_009/binder_b009_13.pdb

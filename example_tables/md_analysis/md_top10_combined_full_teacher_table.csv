@@ -1,0 +1,11 @@
+﻿Candidate,Complex RMSD <=3.0,Antibody RMSD <=0.5,Antigen RMSD <=1.5,H-bonds >=5,ICs >=150,Min dist <=0.20,Buried SASA >=15,?? ?G,??? ?G,AF3?? ?G,AF3 hotspot 6?/5?,PyMOL,??,?????
+antibody_b002_14,1.267,0.091,0.755,11.01,194.61,0.164,18.59,-4.965,-9.261,-14.210,9/9,confirmed_accept,??,
+antibody_b003_8,2.154,0.146,1.246,11.78,170.90,0.163,17.08,-4.125,-9.062,-13.112,9/8,confirmed_accept,??,
+antibody_b007_4,1.735,0.133,1.428,14.42,216.33,0.164,20.24,-5.467,-10.675,-12.422,9/8,confirmed_accept,??,
+antibody_b005_18,2.173,0.103,0.940,12.32,181.99,0.171,17.77,-8.180,-14.801,-12.194,9/9,confirmed_accept,??,
+antibody_b001_10,6.544,6.032,1.027,6.56,153.84,0.175,15.75,-5.770,-9.059,-14.176,9/9,confirmed_accept,???,"complex RMSD, antibody RMSD"
+antibody_b004_9,6.142,5.376,1.059,4.77,209.48,0.177,19.45,-4.450,-9.406,-14.056,9/9,confirmed_accept,???,"complex RMSD, antibody RMSD, H-bonds"
+antibody_b007_18,5.128,4.620,0.669,8.85,242.46,0.169,21.72,-4.948,-10.029,-13.063,9/8,confirmed_accept,???,"complex RMSD, antibody RMSD"
+antibody_b003_18,6.315,5.806,0.892,13.58,199.69,0.165,18.81,-5.931,-11.234,-12.865,9/8,confirmed_accept,???,"complex RMSD, antibody RMSD"
+antibody_b009_0,6.557,6.349,1.244,9.59,159.73,0.169,16.77,-5.484,-10.885,-12.737,9/9,confirmed_accept,???,"complex RMSD, antibody RMSD"
+antibody_b001_9,5.906,5.992,1.249,11.25,192.33,0.161,18.16,-5.205,-9.182,-12.482,9/9,confirmed_accept,???,"complex RMSD, antibody RMSD"

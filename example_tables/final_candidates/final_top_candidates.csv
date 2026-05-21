@@ -1,0 +1,11 @@
+modality,prodigy_rank,design_id,prodigy_delta_g,prodigy_kd,rank,hotspot_coverage,cdr_interface_ratio,dsasa,rmsd_framework,has_clash,pdb_path
+antibody,1,antibody_b007_3,-9.085,2.19103e-07,65,1.0,0.839,853.9101,0.1854,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/antibody/batch_007/antibody_b007_3.pdb
+antibody,2,antibody_b006_3,-8.346,7.626742e-07,87,1.0,0.789,872.9697,0.164,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/antibody/batch_006/antibody_b006_3.pdb
+antibody,3,antibody_b004_12,-8.327,7.875283e-07,122,1.0,0.75,809.4483,0.1838,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/antibody/batch_004/antibody_b004_12.pdb
+antibody,4,antibody_b006_9,-8.318,7.995824e-07,18,1.0,0.917,858.2824,0.1832,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/antibody/batch_006/antibody_b006_9.pdb
+antibody,5,antibody_b005_18,-8.18,1.009295e-06,63,1.0,0.789,983.3146,0.1917,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/antibody/batch_005/antibody_b005_18.pdb
+nanobody,1,nanobody_b001_0,-6.138,3.168213e-05,85,1.0,0.75,734.5218,0.1721,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/nanobody/batch_001/nanobody_b001_0.pdb
+nanobody,2,nanobody_b003_1,-6.077,3.511783e-05,28,1.0,0.897,672.1648,0.1739,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/nanobody/batch_003/nanobody_b003_1.pdb
+nanobody,3,nanobody_b009_10,-5.934,4.470411e-05,80,1.0,0.783,686.7674,0.1999,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/nanobody/batch_009/nanobody_b009_10.pdb
+nanobody,4,nanobody_b004_9,-5.913,4.631702e-05,118,1.0,0.606,761.9343,0.1665,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/nanobody/batch_004/nanobody_b004_9.pdb
+nanobody,5,nanobody_b002_10,-5.642,7.317875e-05,8,1.0,0.958,631.8035,0.1646,False,/mnt/PPIFlow/ica2_runs/output/generation_20260512_195809/nanobody/batch_002/nanobody_b002_10.pdb
